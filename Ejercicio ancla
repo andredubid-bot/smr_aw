@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>Los tres pilares de la Web</title>
+</head>
+<body>
+    <h1>Los tres pilares de la Web</h1>
+    <p>Tim Berners-Lee es considerado el padre de la Web porque desarrolló los tres elementos básicos que funcionan en el funcionamiento de la Web:</p>
+    <ul>
+        <li><a href="#html">HTML</a></li>
+        <li><a href="#http">HTTP</a></li>
+        <li><a href="#url">URL</a></li>
+    </ul>
+<br><br><br><br><br><br><br><br>
+    <h2 id="html">HTML</h2>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt tempora iusto recusandae at ut dolorem, delectus quae, consectetur a repellat ab debitis numquam quo, dolores hic quas alias accusantium sequi. 
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores doloribus magnam sequi similique accusantium error nemo molestiae accusamus porro, aperiam explicabo consequuntur deleniti, earum voluptas eos est ratione. Ducimus, nam.</p>
+    <p>Fuente: <a href="https://es.wikipedia.org/wiki/HTML">Wikipedia</a></p>
+<br><br><br><br><br><br><br><br>
+
+    <h2 id="http">HTTP</h2>
+    <p><em>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, animi placeat? Reiciendis quaerat quidem voluptatem odit esse quam dolores earum, nemo quod doloremque cupiditate dignissimos nostrum aliquam quisquam illum autem!</p>
+    <p>Fuente: <a href="https://es.wikipedia.org/wiki/HTTP">Wikipedia</a></p>
+<br><br><br><br><br><br><br><br>
+<div class=""></div>
+    <h2 id="url">URL</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, quidem sint quo illum nihil ex perferendis explicabo placeat iste voluptatum libero. Cum assumenda fugit sunt ipsam porro eum quae maxime?
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore deserunt sequi delectus officia eaque officiis reprehenderit magnam maiores dolorum quas necessitatibus, rerum ducimus aliquam explicabo voluptates quasi unde quia et.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt delectus, enim dicta dolorum rem ipsam perferendis aspernatur corrupti esse voluptatem sunt officia illo possimus a doloremque alias! Labore, omnis alias.
+    </p>
+    <p>Fuente: <a href="https://es.wikipedia.org/wiki/URL">Wikipedia</a></p>
+
+</body>
+</html>
