@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <title>Los tres pilares de la Web</title>
+<meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantilla</title>
+    <meta name="description" content="Esto es ejercicio negrita y cursiva">
+    <meta name="keywords" content="html, ejercicio, ejercicio1, ejemplo">
+    <meta name="author" content="Juan Profesor">
+    <meta name="application-name" content="Plantilla.html">
+    <meta name="generator" content="VSCode">
+    <link rel="icon" sizes="64x64" href="./assets/icons/download.jpg">
+
 </head>
 <body>
     <h1>Los tres pilares de la Web</h1>
