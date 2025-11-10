@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1><b>Salto de línea con <BR></b> </h1>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi architecto suscipit repellendus at, numquam natus nam, odit aliquid et ex voluptate dolorem quas perspiciatis obcaecati quo harum aliquam sit facere!
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime ad officia, quia, ab, repellat sed doloremque temporibus aperiam ex itaque delectus magnam ipsa accusantium hic voluptas asperiores facilis maiores
+    <br>--------------------------------------------------------------------------------------------- <br>
+
+    <h1><b> Salto de línea con <P></b></h1>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates molestiae, culpa, porro iste distinctio consequatur laboriosam, laudantium quas id harum maiores! Sapiente itaque ea hic illum fugit eius officiis consectetur.
+
+    <p>---------------------------------------------------------------------------------------</p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti aut ipsam expedita atque eveniet optio asperiores iste, ullam temporibus harum molestiae. Deserunt, sint optio. Sunt reiciendis dignissimos nesciunt eum voluptatem?
+</body>
+</html>
